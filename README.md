@@ -323,12 +323,17 @@ If provided:
 - Queue visualization
 - Distributed workers
 
----
+---## Demo Video
+
+Google Drive Link:
+https://drive.google.com/file/d/1W-tfMVShUtPTj3iXueir-jT97Ox20FUh/view?usp=drive_link
+
+
 
 # Author
 
 **Arohi Agarwal**
 
-B.Tech – Computer Science (AI & ML)
+B.Tech – Computer Science (AIML)
 
 Backend Developer Internship Assignment – QueueCTL
