@@ -327,7 +327,7 @@ If provided:
 
 # Author
 
-**Aishwarya Mishra**
+**Arohi Agarwal**
 
 B.Tech – Computer Science (AI & ML)
 
